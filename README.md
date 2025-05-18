@@ -1,7 +1,11 @@
-Team  :  17A
-Project  :  Seeds Of Hope
-Anggota  :  Muhammad Rizky Ramadhan, Mirza Azwan Waranggani
-===========================================================
+Seeds Of Hope
+============================================================
+Project Game  :  Seeds Of Hope
+Tim  :  17A
+Anggota Tim  :  Muhammad Rizky Ramadhan, Mirza Azwan Waranggani
+
+**Harap Baca Petunjuk Sebelum Bermain!**
+
 Tema Game  :  Pemain diberikan tujuan untuk menanam beberapa
 tumbuhan sayuran, yang dimana pemain akan melakukan interaksi
 ke beberapa objek, dan akan melakukan aktifitas seperti menanam,
