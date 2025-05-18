@@ -1,8 +1,8 @@
 Seeds Of Hope
 ============================================================
-Project Game  :  Seeds Of Hope
-Tim  :  17A
-Anggota Tim  :  Muhammad Rizky Ramadhan, Mirza Azwan Waranggani
+Project Game  :  Seeds Of Hope  
+Tim  :  17A  
+Anggota Tim  :  Muhammad Rizky Ramadhan, Mirza Azwan Waranggani  
 
 **Harap Baca Petunjuk Sebelum Bermain!**
 
